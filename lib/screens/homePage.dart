@@ -7,7 +7,6 @@ import 'package:gifty/screens/cart.dart';
 import 'package:gifty/screens/favs.dart';
 import 'package:gifty/screens/home.dart';
 import 'package:gifty/screens/support.dart';
-import 'package:gifty/widgets/itemCard.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:google_nav_bar/google_nav_bar.dart';
 import 'package:material_design_icons_flutter/material_design_icons_flutter.dart';
